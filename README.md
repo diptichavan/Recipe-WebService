@@ -8,7 +8,7 @@ ABN Amro Assessment for Recipe Web Service
 * [Git](https://git-scm.com/)
 
 ## Steps to build Web Service
-* Download code zip / `git clone https://github.com/Lokesh-K-Haralakatta/ABN-Amro-Assessment`
+* Download code zip / `git clone https://github.com/diptichavan/Recipe-Webservice.git
 * Move to `ABN-Amro-Assessment` and run maven build command `mvn clean package`
 * To build by skipping unit tests run maven command `mvn clean package -DskipTests`
 * On successfull build completion, one should have web service jar in `target` directory named as `Recipes-Service-1.0.jar`
